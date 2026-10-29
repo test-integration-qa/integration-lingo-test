@@ -1,0 +1,10 @@
+{
+  "engineId": "eng_Lj5iZt1aYx6KaS3gsCBN",
+  "sourceLocale": "en",
+  "targetLocales": ["de", "fr"],
+  "files": [{ "pattern": "locales/en.json" }],
+  "github": {
+    "workflows": { "onPullRequest": { "enabled": true } },
+    "safety": { "requireApproval": false }
+  }
+}
